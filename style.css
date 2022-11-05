@@ -1,0 +1,29 @@
+.header{
+    color: black;
+    background-color: azure;
+    font-size: 25px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: cursive;
+    
+}
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 22px;
+    background: white;
+    border-radius: 20px;
+    width: 300px;
+    margin-top: 20px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
